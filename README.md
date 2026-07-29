@@ -2,22 +2,48 @@
 
 This repository contains the projects developed during my Data Science program at TripleTen.
 
-## Projects
+The projects are organized by sprint. Each project folder contains its own documentation, notebooks, visualizations, results and analytical conclusions.
 
-### Sprint 3 — Instacart Customer Behavior Analysis
+## Repository organization
 
-Exploratory data analysis of Instacart customer purchasing habits, including data cleaning, missing value treatment, duplicate analysis, purchase frequency, reorder behavior and data visualization.
+Each sprint has a dedicated folder with its own README describing:
 
-[View project](./sprint-03-instacart/)
+- the business or analytical context;
+- the project objective;
+- the datasets used;
+- the data preparation process;
+- the analyses performed;
+- the main findings and conclusions;
+- the technologies and methods applied.
 
-## Technologies
+```text
+tripleten-data-science-projects/
+├── sprint-03-instacart/
+│   ├── README.md
+│   ├── instacart_analysis.ipynb
+│   └── reports/
+├── sprint-04-project/
+├── sprint-05-project/
+└── ...
+```
+
+## Skills developed
+
+Throughout the program, this repository will document the development of skills involving:
 
 - Python
-- pandas
-- Matplotlib
-- Jupyter Notebook
+- pandas and NumPy
+- data cleaning and preprocessing
+- exploratory data analysis
+- data visualization
+- SQL
+- statistics
+- machine learning
 - Git and GitHub
+- communication of analytical results
 
-## Repository structure
+## About the projects
 
-Each course project is stored in its own folder and will be added as the program progresses.
+The projects are based on practical case studies and are developed progressively throughout the program.
+
+For detailed information, methodology and results, access the README file inside each sprint folder.
