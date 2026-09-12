@@ -1,23 +1,4 @@
-# Python
-__pycache__/
-*.py[cod]
-*.egg-info/
-
-# Virtual environment
 .venv/
-venv/
-
-# Jupyter
+__pycache__/
 .ipynb_checkpoints/
-
-# Editor and OS
-.vscode/
-.DS_Store
-Thumbs.db
-
-# Local datasets
 data/*.csv
-data/*.zip
-
-# Temporary files
-*.log
